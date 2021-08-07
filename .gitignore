@@ -1,0 +1,11 @@
+*.log
+*.o
+.vscode
+*.bin
+*.elf
+*.a
+m5out
+*.pyc
+*.img
+common/system/arm/binaries
+application/example/my_demo_example

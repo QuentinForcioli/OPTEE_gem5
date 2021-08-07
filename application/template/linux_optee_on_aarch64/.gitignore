@@ -1,0 +1,6 @@
+system/semihosting/devtree.dtb
+bin
+*.ext2
+mnt
+lib/libteec.so
+obj/

@@ -1,0 +1,5 @@
+#!/bin/sh
+m5 checkpoint 
+mount /dev/vdb /mnt
+xtest --install-ta /mnt/ta
+/mnt/main

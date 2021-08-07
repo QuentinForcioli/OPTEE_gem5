@@ -1,0 +1,12 @@
+binaries
+buildroot
+disks
+linux
+optee_client
+optee_os
+optee_test
+semihosting
+test
+trusted-firmware-a
+u-boot
+out-br
